@@ -1,8 +1,8 @@
 <?php
 $cfg_basehost = 'http://localhost';
-$cfg_cmspath = '/mm';
+$cfg_cmspath = '/meimei';
 $cfg_cookie_encode = 'PvDDs7543P';
-$cfg_indexurl = '/mm';
+$cfg_indexurl = '/meimei';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
 $cfg_webname = '我的网站';
